@@ -14,7 +14,7 @@ Alpine Linux on Keenetic
 ```
 opkg chroot
 opkg initrc /opt/etc/ndm/initrc
-opkg opkg disk <volume>
+opkg disk <volume>
 ```
 
 ## Usage
